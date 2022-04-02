@@ -1,0 +1,8 @@
+ru\geekbrains\service\ProductService.class
+ru\geekbrains\controller\NotFoundException.class
+ru\geekbrains\controller\ProductController.class
+ru\geekbrains\GeekShopBackendApiAppApplication.class
+ru\geekbrains\controller\dto\ProductDto.class
+ru\geekbrains\service\ProductServiceImpl.class
+ru\geekbrains\controller\dto\CategoryDto.class
+ru\geekbrains\controller\dto\BrandDto.class

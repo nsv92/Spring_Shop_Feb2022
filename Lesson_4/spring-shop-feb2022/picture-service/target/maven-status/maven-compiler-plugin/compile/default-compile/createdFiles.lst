@@ -1,0 +1,5 @@
+ru\geekbrains\controller\PictureController.class
+ru\geekbrains\service\PictureServiceImpl.class
+ru\geekbrains\service\PictureService.class
+ru\geekbrains\Utils.class
+ru\geekbrains\controller\PictureDto.class
